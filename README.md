@@ -11,9 +11,14 @@ Your job is to build and serve an end-to-end product that delivers this predicti
 ## Instructions
 
 The task is divided into the following objectives
+
 Exploration of customer purchasing behavior
+
 Prediction of store sales
+
 Machine learning approach
+
 Deep Learning approach
+
 Serving predictions on a web interface
 
