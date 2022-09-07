@@ -9,6 +9,7 @@ The data team identified factors such as promotions, competition, school and sta
 Your job is to build and serve an end-to-end product that delivers this prediction to analysts in the finance team. 
 
 ## Instructions
+
 The task is divided into the following objectives
 Exploration of customer purchasing behavior
 Prediction of store sales
