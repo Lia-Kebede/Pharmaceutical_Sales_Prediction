@@ -10,7 +10,7 @@ Your job is to build and serve an end-to-end product that delivers this predicti
 
 ## Instructions
 
-The task is divided into the following objectives
+### The task is divided into the following objectives
 
 Exploration of customer purchasing behavior
 
